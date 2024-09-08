@@ -139,7 +139,7 @@ a:hover { color: #FF0; }
 .baner-content {
   padding-top: 30vh;
   text-align: center;
-  background-image: url(https://deshpee.com/wp-content/uploads/2023/07/image-35.png);
+  background-image: url(https://res.cloudinary.com/dmk7qs0pf/image/upload/v1725808726/main2_wboaa7.jpg);
 }
 
 .baner-content h1 {
@@ -175,7 +175,7 @@ a:hover { color: #FF0; }
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 15vh;
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp3z96DuviPT_8Ak1k_0kDHPWBijHlKbElkRMsIlA-5asZK58saZDAYon5bMqglCLNE60&usqp=CAU);
+  background-image: url(https://res.cloudinary.com/dmk7qs0pf/image/upload/v1725808725/main1_rpfjdi.jpg);
   background-attachment: fixed;
   min-height: 100vh;
   background-size: cover;
@@ -238,7 +238,7 @@ h4, .h4 {
 
 .projects-content {
   padding-top: 20vh;
-  background-image: url(https://static2.tripoto.com/media/filter/nl/img/15546/TripDocument/1453372181_jhansi_fort_1857.jpg);
+  background-image: url(https://res.cloudinary.com/dmk7qs0pf/image/upload/v1725808725/main5_pkiuwo.jpg);
 }
 
 .projects-content .item img {
@@ -292,7 +292,7 @@ h4, .h4 {
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 8vh;
-  background-image: url(../img/4th-section.jpg);
+  background-image: url(https://res.cloudinary.com/dmk7qs0pf/image/upload/v1725808725/main4_cvtfeq.jpg);
   background-attachment: fixed;
   min-height: 100vh;
   background-size: cover;
